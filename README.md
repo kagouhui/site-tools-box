@@ -1,6 +1,12 @@
-
 # Site Tools Box
 
-Official website: [https://sitetoolsbox.com/](https://sitetoolsbox.com/)
+[![Website](https://img.shields.io/badge/Website-sitetoolsbox.com-blue)](https://sitetoolsbox.com/)
 
-An online webmaster toolbox providing free WHOIS lookup, DNS checks, and domain appraisal tools.
+**Site Tools Box** is an open-source online toolbox for webmasters and developers. 
+
+### Features
+- [WHOIS Lookup](https://sitetoolsbox.com/tool.php?slug=whois) - Check domain ownership and details.
+- [DNS Lookup](https://sitetoolsbox.com/tool.php?slug=dns) - Query A, CNAME, MX, and TXT records.
+- [Domain Appraisal](https://sitetoolsbox.com/tool.php?slug=domain-appraisal) - Estimate domain market value in seconds.
+
+🔗 **Live Demo: [https://sitetoolsbox.com/](https://sitetoolsbox.com/)
